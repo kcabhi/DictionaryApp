@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hotel_RecycleView</string>
+    <string name="string2">Name</string>
+    <string name="string3">Price</string>
+</resources>
